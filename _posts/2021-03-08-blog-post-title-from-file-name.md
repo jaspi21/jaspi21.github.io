@@ -26,5 +26,3 @@ Backpropagation along with Gradient Descent forms the backbone and powerhouse of
 A simple visual description of the movement towards the minima of a 2d function. The step-size of jump is determined by the value of the gradient at each point.And thus by 1990's, Neural networks were definitely back, this time truly catching the imagination of the world and finally coming to par with, if not overtaking, its expectations. Yet again, we are asking the same questions of AI, and projecting onto it, our all too human fears, and yet again we are farther than we think from bowing in deference to our digital overlords.
 
 ---
-
-If you enjoy reading stories like these and want to support my writing, please consider signing up to become a medium member. It's 5$ a month and gives you unlimited access to all stories on medium. If you sign up using my link, I'll receive a small commision.
