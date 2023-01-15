@@ -4,6 +4,8 @@
 
 "From the barren landscapes inside our personal devices come furtive anthems hummed by those digital servants who will one day be our overlords"
 A.I. winter
+
+
 The idea of neural networks began unsurprisingly as a model of how neurons in the brain function, termed 'connectionism' and used connected circuits to simulate intelligent behaviour .In 1943, portrayed with a simple electrical circuit by neurophysiologist Warren McCulloch and mathematician Walter Pitts. Donald Hebb took the idea further in his book, The Organization of Behaviour (1949), proposing that neural pathways strengthen over each successive use, especially between neurons that tend to fire at the same time thus beginning the long journey towards quantifying the complex processes of the brain.
 Two major concepts that are precursers to Neural Networks are
 'Threshold Logic' - converting continuous input to discrete output
